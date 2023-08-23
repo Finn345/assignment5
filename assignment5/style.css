@@ -1,0 +1,15 @@
+.carouselExample
+{width: 
+    300px;}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 
+    Geneva, Verdana, sans-serif, !important; 
+}
+.container{
+    background-color: rgba(255, 106, 106, 0.649);
+}
+
+h2{
+    text-shadow: 2px 2px #000000;
+}
